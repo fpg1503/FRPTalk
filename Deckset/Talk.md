@@ -268,7 +268,7 @@ let searchResults = searchStrings
 
 - Simples mais difícil
 - Novo paradigma
-- Inelegibilidade do código
+- Intelegibilidade do código
 
 ---
 
