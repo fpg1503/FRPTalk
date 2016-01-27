@@ -320,14 +320,19 @@ let searchResults = searchStrings
 
 # Code
 
-- [Elm]
-- [RX]
-- [RAC]
-- [Delta]
-- [Future]
-- [Swift-Flow]
-- [ReduxKit]
-- [Moya]
+- [Elm](https://github.com/elm-lang)
+- [Rx](https://github.com/reactivex)
+- [RAC](https://github.com/reactivecocoa)
+- [Delta](https://github.com/thoughtbot/Delta)
+
+---
+
+# Code
+
+- [BrightFutures](https://github.com/Thomvis/BrightFutures)
+- [Swift-Flow](https://github.com/ReSwift/ReSwift) 
+- [ReduxKit](https://github.com/ReduxKit/ReduxKit)
+- [Moya](https://github.com/Moya)
 
 ---
 
